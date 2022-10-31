@@ -1160,7 +1160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOver: {fileID: 1822548005}
   gameOverText: {fileID: 213700719}
-  lubang: {fileID: 0}
+  lubang: {fileID: 1808634584}
   player: {fileID: 1019582175}
 --- !u!4 &438123444
 Transform:
@@ -2042,7 +2042,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-139264
+  m_Name: pb_Mesh-13792
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6968,6 +6968,17 @@ PrefabInstance:
       objectReference: {fileID: 1055033299}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f9961a3c05ebdb47bfe3a7083437fb2, type: 3}
+--- !u!114 &1808634584 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5559909194443278936, guid: 8f9961a3c05ebdb47bfe3a7083437fb2, type: 3}
+  m_PrefabInstance: {fileID: 1808634583}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad254b1b107d8e4a9f52c41f3d82753, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1822548005
 GameObject:
   m_ObjectHideFlags: 0
